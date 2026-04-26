@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.Scanner;
 import java.util.Set;
 
-public class exercicioSet {
+public class exercicioUmSet {
 
 	public static void main(String[] args) {
 		
