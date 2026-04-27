@@ -40,9 +40,9 @@ public class exercicioUmPilha {
 				} else {
 					System.out.println("Livros na pilha:");
 
-					Iterator<String> viterator = pilha.iterator();
-					while (viterator.hasNext()) {
-						System.out.println(viterator.next());
+					Iterator<String> iterator = pilha.iterator();
+					while (iterator.hasNext()) {
+						System.out.println(iterator.next());
 					}
 				}
 				break;
