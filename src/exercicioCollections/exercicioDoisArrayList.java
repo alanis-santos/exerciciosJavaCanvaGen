@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class exercicioDoisArrayList {
+public class ExercicioDoisArrayList {
 
 	public static void main(String[] args) {
 		ArrayList<Integer>  listaNumeros = new ArrayList<Integer>(List.of(1,3,5,7,6,4,2,10,9,8));

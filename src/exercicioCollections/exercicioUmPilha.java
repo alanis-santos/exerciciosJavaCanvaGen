@@ -5,7 +5,7 @@ import java.util.Deque;
 import java.util.Iterator;
 import java.util.Scanner;
 
-public class exercicioUmPilha {
+public class ExercicioUmPilha {
 
 	public static void main(String[] args) {
 

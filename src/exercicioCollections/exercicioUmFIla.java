@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class exercicioUmFIla {
+public class ExercicioUmFIla {
 
 	public static void main(String[] args) {
 

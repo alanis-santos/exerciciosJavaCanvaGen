@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class exercicioUmArrayList {
+public class ExercicioUmArrayList {
 
 	public static void main(String[] args) {
 		
